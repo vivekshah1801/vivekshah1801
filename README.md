@@ -2,7 +2,7 @@
 I am Vivek Shah 💻</h1>
 
 <p >
-  <a href="mailtto:vivekshah9969@gmail.com">Email</a> •
+  <a href="mailto:vivekshah9969@gmail.com">Email</a> •
   <a href="https://vivekshah1801.github.io/">Website</a> •
   <a href="https://github.com/vivekshah1801/">GitHub</a> •
   <a href="https://www.linkedin.com/in/vivekshah1801/">Linkedin</a>
@@ -51,7 +51,7 @@ I am interested in data science, system design, image processing and machine lea
 
 ### Let's Get in touch
 <p >
-  <a href="mailtto:vivekshah9969@gmail.com">Email</a> •
+  <a href="mailto:vivekshah9969@gmail.com">Email</a> •
   <a href="https://vivekshah1801.github.io/">Website</a> •
   <a href="https://github.com/vivekshah1801/">GitHub</a> •
   <a href="https://www.linkedin.com/in/vivekshah1801/">Linkedin</a> •

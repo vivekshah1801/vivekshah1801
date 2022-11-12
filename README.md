@@ -12,8 +12,6 @@ I am Vivek Shah 💻</h1>
 Thanks for landing here. I am Vivek.
 I am into engineering, I engineer softwares. I write code as solution for problems. Apart from tech I am interested in business and its working.
 
-I am interested in data science, system design, image processing and machine learning.
-
 <!-- ## Some of my work
 
 <a href="https://github.com/vivekshah1801/Instagram-Fried-Potato">
@@ -38,16 +36,7 @@ I am interested in data science, system design, image processing and machine lea
 
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api/?username=vivekshah1801&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
-### My Skills
-<b>
-✍🏻 Python<br>
-✍🏻 NodeJs<br>
-✍🏻 Java<br>
-✍🏻 C<br>
-✍🏻 Git & GitHub<br>
-</b>
-
-### Have a look at : vivekshah.tech
+### Have a look at : vivekshah18001.github.io
 
 ### Let's Get in touch
 <p >

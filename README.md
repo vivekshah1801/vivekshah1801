@@ -36,7 +36,7 @@ I am into engineering, I engineer softwares. I write code as solution for proble
 
 ![Vivek's github stats](https://github-readme-stats.vercel.app/api/?username=vivekshah1801&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
-### Have a look at : vivekshah18001.github.io
+### Have a look at : vivekshah1801.github.io
 
 ### Let's Get in touch
 <p >

@@ -1,15 +1,6 @@
 <h1>Hi there 👋<br>
 I am Vivek Shah 💻</h1>
 
-<p >
-  <a href="mailto:vivekshah9969@gmail.com">Email</a> •
-  <a href="https://vivekshah1801.github.io/">Website</a> •
-  <a href="https://github.com/vivekshah1801/">GitHub</a> •
-  <a href="https://www.linkedin.com/in/vivekshah1801/">Linkedin</a>
-</p>
-
-
-Thanks for landing here. I am Vivek.
 I am into engineering, I engineer softwares. I write code as solution for problems. Apart from tech I am interested in business and its working.
 
 <!-- ## Some of my work
